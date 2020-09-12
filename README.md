@@ -13,7 +13,7 @@ Changes made can be found in the individual FONTLOG files in this repository.
 
 ### Gurage Ethiopia Jiret
 The Gurage Ethiopia Jiret font is derived from the
-[Ethiopic Fantuwua](https://github.com/googlefonts/noto-fonts) font
+[Ethiopia Jiret](https://github.com/googlefonts/noto-fonts) font
 from the [WashRa 4.1](https://senamirmir.org/projects/typography/washra.html) collection.
 See the [FONTLOG](FONTLOG-GurageEthiopiaJiret.txt) for details.
 
