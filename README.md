@@ -1,6 +1,6 @@
 # Gurage Font Collection
 
-A collectiono of Ethiopic fonts under the Gurage typeface preference as established
+A collection of Ethiopic fonts under the Gurage typeface preference as established
 by Fekede Menuta, which was institutionally approved by the Gurage Zone Administration
 Council in 2018, and was further refined by Wolkite University in 2019.
 
