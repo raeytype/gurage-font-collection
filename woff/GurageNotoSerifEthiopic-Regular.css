@@ -1,0 +1,8 @@
+/* Webfont: GurageNotoSerifEthiopic-Regular */@font-face {
+    font-family: 'GurageNotoSerifEthiopic';
+    src: url('GurageNotoSerifEthiopic-Regular.woff') format('woff'); /* Modern Browsers */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
