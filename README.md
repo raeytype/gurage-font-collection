@@ -1,8 +1,10 @@
 # Gurage Font Collection
 
 A collection of Ethiopic fonts under the Gurage typeface preference as established
-by Fekede Menuta, which was institutionally approved by the Gurage Zone Administration
-Council in 2018, and was further refined by Wolkite University in 2019.
+by Fekede Menuta, and adopted by the Gurage Zone Tourism and Communication Bureau
+in Hidar 2006EC (December 2013) and endorsed by the Gurage Zone Administration Council
+in 2018.  The orthography has been deployed into the Gurage Zone public school system at
+the start of the 2013EC school year (September 2020).
 
 ## The Collection
 The collection is built upon fonts under the SIL [Open Font License](http://scripts.sil.org/OFL) (OFL)
