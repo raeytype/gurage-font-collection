@@ -1,7 +1,10 @@
 /* Webfont: GurageZebidar-Regular */@font-face {
     font-family: 'GurageZebidar';
-    src: url('GurageZebidar-Regular.woff') format('woff'); /* Modern Browsers */
-    font-style: normal;
+    src: url('GurageZebidar-Regular.eot'); /* IE9 Compat Modes */
+    src: url('GurageZebidar-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('GurageZebidar-Regular.woff') format('woff'), /* Modern Browsers */
+         url('GurageZebidar-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }

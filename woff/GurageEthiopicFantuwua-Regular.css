@@ -1,7 +1,10 @@
 /* Webfont: GurageEthiopicFantuwua */@font-face {
     font-family: 'GurageEthiopicFantuwua';
-    src: url('GurageEthiopicFantuwua-Regular.woff') format('woff'); /* Modern Browsers */
-    font-style: normal;
+    src: url('GurageEthiopicFantuwua-Regular.eot'); /* IE9 Compat Modes */
+    src: url('GurageEthiopicFantuwua-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('GurageEthiopicFantuwua-Regular.woff') format('woff'), /* Modern Browsers */
+         url('GurageEthiopicFantuwua-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
     font-weight: normal;
     text-rendering: optimizeLegibility;
 }
