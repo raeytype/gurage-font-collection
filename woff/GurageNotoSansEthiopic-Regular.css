@@ -1,0 +1,11 @@
+/* Webfont: GurageNotoSansEthiopic-Regular */@font-face {
+    font-family: 'GurageNotoSansEthiopic';
+    src: url('Gurage-NotoSansEthiopic-Regular.eot'); /* IE9 Compat Modes */
+    src: url('Gurage-NotoSansEthiopic-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Gurage-NotoSansEthiopic-Regular.woff') format('woff'), /* Modern Browsers */
+         url('Gurage-NotoSansEthiopic-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
