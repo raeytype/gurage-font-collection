@@ -14,23 +14,21 @@ made for the "Gurage Zebidar" font whose name is inherited from a previous proje
 Changes made can be found in the individual FONTLOG files in this repository.
 
 ### Gurage Ethiopia Jiret
-The Gurage Ethiopia Jiret font is derived from the
-[Ethiopia Jiret](https://github.com/googlefonts/noto-fonts) font
+The Gurage Ethiopia Jiret font is derived from the Ethiopia Jiret font
 from the [WashRa 4.1](https://senamirmir.org/projects/typography/washra.html) collection.
 See the [FONTLOG](FONTLOG-GurageEthiopiaJiret.txt) for details.
 
 ### Gurage Ethiopic Fantuwua
-The Gurage Ethiopic Fantuwua font is derived from the
-[Ethiopic Fantuwua](https://github.com/googlefonts/noto-fonts) font
+The Gurage Ethiopic Fantuwua font is derived from the Ethiopic Fantuwua font
 from the [WashRa 4.1](https://senamirmir.org/projects/typography/washra.html) collection.
 See the [FONTLOG](FONTLOG-GurageEthiopicFantuwua.txt) for details.
 
-### Gurage Noto Sans Ethiopic 
+### Gurage Noto Sans Ethiopic
 The Gurage Noto Sans Ethiopic font is derived from the
 [Noto Serif Ethiopic](https://github.com/googlefonts/noto-fonts) font.
 See the [FONTLOG](FONTLOG-GurageNotoSansEthiopic.txt) for details.
 
-### Gurage Noto Serif Ethiopic 
+### Gurage Noto Serif Ethiopic
 The Gurage Noto Serif Ethiopic font is derived from the
 [Noto Serif Ethiopic](https://github.com/googlefonts/noto-fonts) font.
 See the [FONTLOG](FONTLOG-GurageNotoSerifEthiopic.txt) for details.
