@@ -1,17 +1,16 @@
 # Gurage Font Collection
-
-A collection of Ethiopic fonts under the Gurage typeface preference as established
-by Fekede Menuta, and adopted by the Gurage Zone Tourism and Communication Bureau
-in Hidar 2006EC (December 2013) and endorsed by the Gurage Zone Administration Council
-in 2018.  The orthography has been deployed into the Gurage Zone public school system at
-the start of the 2013EC school year (September 2020).
-
-## The Collection
 The collection is built upon fonts under the SIL [Open Font License](http://scripts.sil.org/OFL) (OFL)
 where changes and additions are made to support the orthography. The font names are
 changed by simply prefixing "Gurage" to the original names. A single exception is
 made for the "Gurage Zebidar" font whose name is inherited from a previous project.
 Changes made can be found in the individual FONTLOG files in this repository.
+
+## Modern Orthography
+A collection of Ethiopic fonts under the Gurage typeface preference as established
+by Fekede Menuta, and adopted by the Gurage Zone Tourism and Communication Bureau
+in Hidar 2006EC (December 2013) and endorsed by the Gurage Zone Administration Council
+in 2018.  The orthography has been deployed into the Gurage Zone public school system at
+the start of the 2013EC school year (September 2020).
 
 ### Gurage Ethiopia Jiret
 The Gurage Ethiopia Jiret font is derived from the Ethiopia Jiret font
@@ -37,3 +36,31 @@ See the [FONTLOG](FONTLOG-GurageNotoSerifEthiopic.txt) for details.
 The Gurage Zebidar font had previously been released under the name "Zebidar" and is derived
 from the [Abyssinica SIL 2.0](https://software.sil.org/abyssinica/) typeface.
 See the [FONTLOG](FONTLOG-GurageZebidar.txt) for details.
+
+
+## Legacy Orthographies
+Legacy fonts have been developed for three significant Gurage orthographies
+that have been used in noteably publication. All fonts have been derived
+from the [Abyssinica SIL 2.0](https://software.sil.org/abyssinica/) typeface.
+
+### Gurage Fider 1966 
+The initial orthography devised by Dr. Wolf Leslau and Sahle Selassie
+Berhane Mariam in 1962 and published in 1966 in the seminal work:
+*Ethiopians Speak: Studies In Cultural Background. Volume 2. Chaha.*
+See the [FONTLOG](FONTLOG-GurageFider1966.txt) for details.
+
+### Gurage Fider 1977
+An orthography developed independently between 1974-1977 by Carolyn Ford
+and Degefe Gebre Mariam and first used in publishing a selection of
+the Gospel of Matthew on January 7, 1977 and later used to publish the
+Gurage New Testament (ገደር ጕርዳ በጕራጊና) in 1983.
+See the [FONTLOG](FONTLOG-GurageFider1977.txt) for details.
+
+### Gurage Fider 1998 
+The successor to the 1977 orthography developed to publish the 
+Gurage Bible and becoming the reference glyphs under Unicode 4.1.
+The glpyhs have been in use from 1998 until a new orthography was
+introduced in 2013. The glpyhs may also be generated from the
+[TypeTuner website](https://scripts.sil.org/ttw/fonts3go.cgi)
+with the language selection "Sebat Bet Gurage".
+See the [FONTLOG](FONTLOG-GurageFider1998.txt) for details.
