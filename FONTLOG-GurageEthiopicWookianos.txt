@@ -41,6 +41,7 @@ U+132E: Out of place point on right leg fixed.
 
 U+1337: Added
 
+U+1359: Macron extended.
 U+1360: Added.
 
 U+1378: The inner ring is recentered and size reduced.
