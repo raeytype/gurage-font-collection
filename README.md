@@ -22,6 +22,11 @@ The Gurage Ethiopic Fantuwua font is derived from the Ethiopic Fantuwua font
 from the [WashRa 4.1](https://senamirmir.org/projects/typography/washra.html) collection.
 See the [FONTLOG](FONTLOG-GurageEthiopicFantuwua.txt) for details.
 
+### Gurage Ethiopic Wookianos
+The Gurage Ethiopic Wookianos font is derived from the Ethiopic Wookianos font
+from the [WashRa 4.1](https://senamirmir.org/projects/typography/washra.html) collection.
+See the [FONTLOG](FONTLOG-GurageEthiopicWookianos.txt) for details.
+
 ### Gurage Noto Sans Ethiopic
 The Gurage Noto Sans Ethiopic font is derived from the
 [Noto Serif Ethiopic](https://github.com/googlefonts/noto-fonts) font.
