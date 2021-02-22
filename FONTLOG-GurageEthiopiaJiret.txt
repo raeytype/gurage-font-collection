@@ -29,6 +29,7 @@ U+131D: Macron joined to body.
 U+131E: Macron joined to body.
 U+131F: Added
 U+1357: Change to straight leg form based on U+1350.
+U+1360: Added
 U+1367: Change glyphs to square shapes from U+1361.
 U+1368: Change glyphs to square shapes from U+1361.
 U+1390: Added.
