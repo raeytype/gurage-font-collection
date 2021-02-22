@@ -9,8 +9,11 @@ Changes made can be found in the individual FONTLOG files in this repository.
 A collection of Ethiopic fonts under the Gurage typeface preference as established
 by Fekede Menuta, and adopted by the Gurage Zone Tourism and Communication Bureau
 in Hidar 2006EC (December 2013) and endorsed by the Gurage Zone Administration Council
-in 2018.  The orthography has been deployed into the Gurage Zone public school system at
-the start of the 2013EC school year (September 2020).
+in 2018.  The orthography has been deployed into the Gurage Zone public school system
+at the start of the 2013EC school year (September 2020). The 28 letters introduced in
+the new orthography have been adopted into Unicode 14.0.  The fonts in this
+section use the applicable Unicode encoding in the Ethiopic Extended-B range.
+
 
 ### Gurage Ethiopia Jiret
 The Gurage Ethiopia Jiret font is derived from the Ethiopia Jiret font
