@@ -1,0 +1,12 @@
+/* Webfont: Gurage-Fider-Regular */@font-face {
+    font-family: 'GurageFider1998';
+    src: url('Gurage-Fider-1998.eot'); /* IE9 Compat Modes */
+    src: url('Gurage-Fider-1998.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Gurage-Fider-1998.woff') format('woff'), /* Modern Browsers */
+         url('Gurage-Fider-1998.woff2') format('woff2'), /* Modern Browsers */
+         url('Gurage-Fider-1998.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
