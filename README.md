@@ -2,7 +2,8 @@
 The collection is built upon fonts under the SIL [Open Font License](http://scripts.sil.org/OFL) (OFL)
 where changes and additions are made to support the orthography. The font names are
 changed by simply prefixing "Gurage" to the original names. A single exception is
-made for the "Gurage Zebidar" font whose name is inherited from a previous project.
+made for the "Abyssinica SIL" font which begun supporting the 2013 Gurage orthography
+in version 2.1 on June 9th, 2021.
 Changes made can be found in the individual FONTLOG files in this repository.
 
 ## Modern Orthography
@@ -40,9 +41,10 @@ The Gurage Noto Serif Ethiopic font is derived from the
 [Noto Serif Ethiopic](https://github.com/googlefonts/noto-fonts) font.
 See the [FONTLOG](FONTLOG-GurageNotoSerifEthiopic.txt) for details.
 
-### Gurage Zebidar
-The Gurage Zebidar font had previously been released under the name "Zebidar" and is derived
-from the [Abyssinica SIL 2.0](https://software.sil.org/abyssinica/) typeface.
+### Abyssinica SIL
+The Abyssinica SIL font replaces the "Gurage Zebidar" font previously in the collection
+following the adoption of the Zebidar glyphs in version 2.1 of Abyssinica SIL.
+from the [Abyssinica SIL 2.1](https://software.sil.org/abyssinica/) typeface.
 See the [FONTLOG](FONTLOG-GurageZebidar.txt) for details.
 
 
