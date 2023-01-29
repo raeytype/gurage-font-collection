@@ -39,4 +39,3 @@ U+E044: The diacritic symbol from U+12B0 is added to U+1210.
 U+E045: The diacritic symbol from U+12B0 is added to U+1212.
 U+E046: The diacritic symbol from U+12B0 is added to U+1214.
 U+E046: The diacritic symbol from U+12B0 is added to U+1215.
-

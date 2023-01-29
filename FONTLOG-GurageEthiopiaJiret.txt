@@ -2,8 +2,8 @@ FONTLOG
 
 Gurage Ethiopia Jiret font family
 ======================================
-The Gurage Ethiopia Jiret typeface is derived directly from the Noto Serif
-Ethiopic typeface with changes made to glyphs to support the Gurage orthography
+The Gurage Ethiopia Jiret typeface is derived directly from the WashRa Ethiopia
+Jiret typeface with changes made to glyphs to support the Gurage orthography
 developed by Dr. Fekede Menuta and Wolkite University.
 
 Glyph changes and additions made to support the new orthography are the following:

@@ -2,8 +2,8 @@ FONTLOG
 
 Gurage Ethiopic Fantuwua font family
 ======================================
-The Gurage Ethiopic Fantuwua typeface is derived directly from the Noto Serif
-Ethiopic typeface with changes made to glyphs to support the Gurage orthography
+The Gurage Ethiopic Fantuwua typeface is derived directly from the WashRa Ethiopic
+Fantuwua typeface with changes made to glyphs to support the Gurage orthography
 developed by Dr. Fekede Menuta and Wolkite University.
 
 Glyph changes and additions made to support the new orthography are the following:
@@ -51,5 +51,3 @@ U+E044: The diacritic symbol from U+12B0 is added to U+1210.
 U+E045: The diacritic symbol from U+12B0 is added to U+1212.
 U+E046: The diacritic symbol from U+12B0 is added to U+1214.
 U+E046: The diacritic symbol from U+12B0 is added to U+1215.
-
-
